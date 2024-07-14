@@ -1,1 +1,2 @@
-var a=2;
+var a=8;
+var b=8;
